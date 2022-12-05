@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/myreactportfolio/static/css/main.228c4cc5.css",
+    "main.js": "/myreactportfolio/static/js/main.5312def8.js",
+    "static/js/787.fb771931.chunk.js": "/myreactportfolio/static/js/787.fb771931.chunk.js",
+    "static/media/tasklist.png": "/myreactportfolio/static/media/tasklist.fab3956a05e375ae77d5.png",
+    "static/media/formvalidator.png": "/myreactportfolio/static/media/formvalidator.3218b8ad23970cc3f68d.png",
+    "static/media/barbershop.jpg": "/myreactportfolio/static/media/barbershop.aa3da6af500e4936ec9c.jpg",
+    "static/media/ewallet.jpg": "/myreactportfolio/static/media/ewallet.55b06aa269f5fa3ddb52.jpg",
+    "static/media/magicnavbar.jpg": "/myreactportfolio/static/media/magicnavbar.dfbe57a8d94d5a926c7f.jpg",
+    "index.html": "/myreactportfolio/index.html",
+    "main.228c4cc5.css.map": "/myreactportfolio/static/css/main.228c4cc5.css.map",
+    "main.5312def8.js.map": "/myreactportfolio/static/js/main.5312def8.js.map",
+    "787.fb771931.chunk.js.map": "/myreactportfolio/static/js/787.fb771931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.228c4cc5.css",
+    "static/js/main.5312def8.js"
+  ]
+}
